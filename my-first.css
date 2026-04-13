@@ -1,0 +1,22 @@
+body{
+    background-color: rgb(70, 70, 185);
+}
+h1 {
+    font-family: Georgia, 'Times New Roman', Times, serif; 
+    font-size:medium;
+    color: aqua;
+}
+h2{
+   font-family: Georgia, 'Times New Roman', Times, serif; 
+    font-size:medium;
+    color:black;    
+}
+p{
+    color: antiquewhite;
+}
+ul  {
+    color: black;
+}
+li{
+    color: black;
+}
